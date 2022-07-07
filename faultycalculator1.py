@@ -1,5 +1,5 @@
 #luffytaro                              
-#anyone can use this code and make chang
+#anyone can use this code and make changes.
                                         
 choice = 0                              
 print("\n1.Add")                        
